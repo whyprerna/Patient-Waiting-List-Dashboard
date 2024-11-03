@@ -13,6 +13,16 @@ This project involves creating a comprehensive and interactive dashboard in Powe
 
 Kaggle: https://www.kaggle.com/datasets/prernapattanaik27/healthcare-datasets-daily-patients
 
+## Dasboards' Static View
+
+![Patient Waiting List Summary](PWL-1.png)
+
+
+![Patient Waiting List Summary2](PWL-2.png)
+
+
+![Patient Waiting List Detailed View2](PWL-3.png)
+
 ## Key Metrics
 
 - **Average & Median Wait Times**: Gain insights into patient flow and service efficiency.
